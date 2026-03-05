@@ -13,11 +13,11 @@ Table of content
 <a id="chapter1"></a>
 # 1. MySQL example
 
-[<div style="text-align: center;"><span style="font-size: 12px;">back</span></div>](#contenttab)
+[back](#contenttab)
 ***
 
 <a id="chapter2"></a>
-# 1. SQlite example
+# 2. SQlite example
 
-[<div style="text-align: center;"><span style="font-size: 12px;">back</span></div>](#contenttab)
+[back](#contenttab)
 ***
