@@ -16,11 +16,11 @@ Table of content
 
 </br>
 [back](#contenttab)
-***
+
 
 <a id="chapter2"></a>
 # 2. SQlite example
 
 </br>
 [back](#contenttab)
-***
+
